@@ -21,3 +21,4 @@ print(list)
 |
 finish
 
+(I uploaded a word document with the Flowchart).
